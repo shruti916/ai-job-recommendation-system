@@ -1,4 +1,4 @@
-AI JOB RECOMMENDATION SYSTEM 
+#AI JOB RECOMMENDATION SYSTEM 
 
 
 AI-powered job recommendation engine that matches resumes/skills to job postings using TF-IDF vectorization and cosine similarity. Includes a Streamlit web app, CLI demo, and unit tests. Fully explainable content-based filtering no black-box model.
@@ -17,3 +17,5 @@ Paste in a resume or a list of skills, and the system scores every job posting b
 Tech stack used
 
 Python · pandas · scikit-learn (TfidfVectorizer, cosine_similarity) · Streamlit · pypdf
+
+DEMO LINK :
