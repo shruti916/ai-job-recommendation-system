@@ -22,5 +22,5 @@ Python · pandas · scikit-learn (TfidfVectorizer, cosine_similarity) · Streaml
 
 
 
-## DEMO LINK 
+## Demo Link
 https://ai-job-recommendation-system-s.streamlit.app/   
