@@ -6,7 +6,7 @@ AI-powered job recommendation engine that matches resumes/skills to job postings
 
 
 
-About this project 
+## About this project 
 
 An AI-powered job recommendation engine that matches a candidate's resume or skills against open job postings and returns ranked, explainable recommendations — built to demonstrate a real, working recommender system end to end.
 
@@ -14,8 +14,8 @@ Paste in a resume or a list of skills, and the system scores every job posting b
 
 
 
-Tech stack used
+## Tech stack used
 
 Python · pandas · scikit-learn (TfidfVectorizer, cosine_similarity) · Streamlit · pypdf
 
-DEMO LINK :
+## DEMO LINK : https://ai-job-recommendation-system-s.streamlit.app/   
