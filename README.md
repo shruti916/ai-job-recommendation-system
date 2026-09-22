@@ -14,8 +14,13 @@ Paste in a resume or a list of skills, and the system scores every job posting b
 
 
 
+
 ## Tech stack used
 
 Python · pandas · scikit-learn (TfidfVectorizer, cosine_similarity) · Streamlit · pypdf
 
-## DEMO LINK : https://ai-job-recommendation-system-s.streamlit.app/   
+
+
+
+## DEMO LINK 
+https://ai-job-recommendation-system-s.streamlit.app/   
